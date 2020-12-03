@@ -1,6 +1,12 @@
+body {
+  text-align: center;
+  color:black;
+}
+
 .tropical {
   color: #f7325e;
   font-family: fantasy;
+  line-height: 1.6;
 }
 
 .popular {
@@ -14,11 +20,8 @@ img {
   border-radius: 5%;
 }
 
-body {
-  text-align: center;
-}
-
-p {
+.paragraphs {
+  color: black;
   line-height: 1.6;
 }
 
