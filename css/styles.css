@@ -1,0 +1,33 @@
+.tropical {
+  color: #f7325e;
+  font-family: fantasy;
+}
+
+.popular {
+  color: teal;
+  font-family: cursive;
+}
+
+img {
+  width: 700px;
+  height: 500px;
+  border-radius: 5%;
+}
+
+body {
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+}
+
+
+.header {
+  color: teal;
+}
+
+h1 {
+  color: white;
+  background: teal;
+}
